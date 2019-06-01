@@ -1,0 +1,13 @@
+.images{
+    display: flex;
+    align-items: flex-start;
+    transition: all 0.5s;
+}
+.window{
+    width: 450px;
+    overflow: hidden;
+}
+
+.blue{
+    color: blue;
+}
